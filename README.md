@@ -58,12 +58,11 @@ Educational web application focused on connecting students and educational resou
 
 # 📊 GitHub Stats:
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAYOUBhou44a&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Ayoub's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAYOUBhou44a&theme=github_dark)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AAYOUBhou44a&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AAYOUBhou44a&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAYOUBhou44a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAYOUBhou44a&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 
