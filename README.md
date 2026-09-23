@@ -66,8 +66,7 @@ Educational web application focused on connecting students and educational resou
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AAYOUBhou44a&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
+![GitHub Trophies](./trophy.svg)
 
 ### ✍️ Random Dev Quote
 
