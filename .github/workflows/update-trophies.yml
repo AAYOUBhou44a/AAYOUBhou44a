@@ -6,23 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Generate trophy
+      - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           options: "username=AAYOUBhou44a&theme=onedark&column=6&row=2&no-bg=true"
           path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit trophy
+      - name: Commit trophy card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
